@@ -1,7 +1,7 @@
 var ele = document.getElementById("content");
 console.log(ele);
 ele.addEventListener("click",timeout);
-var n = 3;
+var n = 10;
 function timeout()
 {
     if(n==0)
